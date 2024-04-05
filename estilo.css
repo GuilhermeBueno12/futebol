@@ -1,0 +1,46 @@
+.fachada{
+    border-radius: 0%;
+    
+}
+img{
+    width: 300px;
+    margin-left: 4px;
+    border-radius: 50%;
+    border-color: rgb(67, 207, 67);
+}
+img:hover{
+    border-radius: 0%;
+    width: 400px;
+}
+
+body{
+
+background-image: url(Fundo.jpg);
+    color: aqua;
+    font-size: x-large;
+    font-family: Arial;
+}
+h1{
+    color: blue;
+    text-align: center;
+    background-color: black;
+    border-radius: 15px;
+
+}
+ul{
+    color: wheat;
+
+}
+a{
+   color:rgb(240, 235, 235); 
+   text-decoration: none;
+   background-color: red;
+   border-radius: 5px;
+   width: 400px;
+}
+    a:hover{
+        color: #1aec2b;
+        background-color: wheat;
+        border: solid;
+        font-size: xx-large;
+    }
